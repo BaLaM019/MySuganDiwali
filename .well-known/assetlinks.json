@@ -1,0 +1,19 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.software_innovation.webapp",
+      "sha256_cert_fingerprints":
+      ["B2:1C:61:69:C8:24:34:D5:C2:4B:01:E7:40:08:25:01:C7:5D:69:D4:96:4C:B2:33:70:40:2C:2B:D8:94:20:49"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "forgepond.com.software_innovation.webapp",
+      "sha256_cert_fingerprints":
+      ["D4:E5:50:3A:F4:F5:27:22:42:93:06:6D:5C:A6:ED:1B:44:94:A8:4E:62:77:F6:29:CE:18:08:57:D4:F0:DC:9B"]
+    }
+  }]
+  
