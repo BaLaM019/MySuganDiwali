@@ -13,6 +13,10 @@
       {
         "appID": "K58WXL4M6T.com.tietoevry.emanager",
         "paths": ["*"]
+      },
+      {
+        "appID": "K58WXL4M6T.com.tietoevry.emanager.mdm",
+        "paths": ["*"]
       }
     ]
   }
