@@ -2,10 +2,6 @@
   "applinks": {
     "apps": [],
     "details": [
-       {
-        "appID": "K58WXL4M6T.com.tietoevry.emanager.mdm",
-        "paths": ["CirtixError.html"]
-      },
       {
           "appID": "K58WXL4M6T.com.software-innovation.360managerapp",
           "paths": ["*"]
@@ -17,8 +13,11 @@
       {
         "appID": "K58WXL4M6T.com.tietoevry.emanager",
         "paths": ["*"]
+      }, 
+      {
+        "appID": "K58WXL4M6T.com.tietoevry.emanager.mdm",
+        "paths": ["CirtixError.html"]
       }
-     
     ]
   }
 }
