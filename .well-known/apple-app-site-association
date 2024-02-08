@@ -3,18 +3,6 @@
     "apps": [],
     "details": [
       {
-          "appID": "K58WXL4M6T.com.software-innovation.360managerapp",
-          "paths": ["*"]
-      },
-      {
-          "appID": "2FE4AP6HRK.com.software-innovation.360managerapp-enterprise",
-          "paths": ["*"]
-      },
-      {
-        "appID": "K58WXL4M6T.com.tietoevry.emanager",
-        "paths": ["*"]
-      }, 
-      {
         "appID": "K58WXL4M6T.com.tietoevry.emanager.mdm",
         "paths": ["/CirtixError.html"]
       }
