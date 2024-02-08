@@ -4,15 +4,15 @@
     "details": [
       {
           "appID": "K58WXL4M6T.com.software-innovation.360managerapp",
-          "paths": ["/CirtixError.html"]
+          "paths": ["*"]
       },
       {
           "appID": "2FE4AP6HRK.com.software-innovation.360managerapp-enterprise",
-          "paths": ["/CirtixError.html"]
+          "paths": ["*"]
       },
       {
         "appID": "K58WXL4M6T.com.tietoevry.emanager",
-        "paths": ["/CirtixError.html"]
+        "paths": ["*"]
       }, 
       {
         "appID": "K58WXL4M6T.com.tietoevry.emanager.mdm",
