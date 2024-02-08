@@ -16,7 +16,7 @@
       },
       {
         "appID": "K58WXL4M6T.com.tietoevry.emanager.mdm",
-        "paths": ["*"]
+        "paths": ["-CitrixError.html"]
       }
     ]
   }
